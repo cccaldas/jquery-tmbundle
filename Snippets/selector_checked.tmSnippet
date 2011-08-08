@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>checked selector</string>
 	<key>scope</key>
-	<string>source.js.jquery meta.selector.jquery</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>:</string>
 	<key>uuid</key>
